@@ -14,7 +14,7 @@ GIT Homework 1
 Файл со сценарием и ссылку на свой гит хаб отправляйте менторам на проверку.
 
 JSON
- 4. Создать внешний репозиторий c названием JSON. ![Image alt](https://github.com/EugeneVovk/JSON/raw/main/C:\Users\user\OneDrive\Рабочий стол\Скриншот 29-05-2022 013450.png)
+ 4. Создать внешний репозиторий c названием JSON. ![Image alt](https://github.com/EugeneVovk/JSON/raw/main/C:\Users\user\OneDrive\"Рабочий стол"\"Скриншот 29-05-2022 013450.png")
  5. Клонировать репозиторий JSON на локальный компьютер.
  6. Внутри локального JSON создать файл “new.json”.
  7. Добавить файл под гит.
