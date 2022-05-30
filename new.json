@@ -1,7 +1,7 @@
 {
-	"favorite_movie": "Interstate 60",
-	"favorite_series": "Love, Death & Robots",
-	"favorite_food": "Charcoal Chicken",
-	"favorite_season": "summer",
-	"country": "USA"
+	"first_name": "Eugene",
+	"last_name": "Vovk",
+	"age": 39,
+	"numberOfPets": 0,
+	"desired_salary": 1500
 }
